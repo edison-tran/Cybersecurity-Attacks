@@ -83,8 +83,8 @@ Common Vulnerabilities:
 The most exploited weaknesses involved network based attacks(responsible for 33% of breaches), software based attacks (49.4%),
 and social engineering (17.6%). Through analysing industry targets and attack counts, an inverse relationship was discovered in
 terms of attack count and average resolution time. With IT, banking, and healthcare as the top victims of attacks, they had an 
-average resolution time of 35.9 hours. Conversely, government, telecommunications, and education had an average resolution time 
-of 36.9 hours.
+average resolution time of 35.9 hours. Conversely, government, telecommunications, and education being among the bottom in terms
+of attacks had an average resolution time of 36.9 hours.
 
 
 
